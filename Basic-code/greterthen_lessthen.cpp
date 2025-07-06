@@ -14,4 +14,5 @@ int main(){
    else {
         cout<<"a is greter then b "<<a<<" > "<<b<<endl;
     }
+    return 0;
 }
