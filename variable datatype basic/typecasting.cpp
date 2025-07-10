@@ -21,7 +21,7 @@ char go =int (111);
 cout<<go<<endl;
 cout<<my;
 
-
+// this is for editior learn propose
 // operator -- relation , logical and arithematic operator
 /*
 
